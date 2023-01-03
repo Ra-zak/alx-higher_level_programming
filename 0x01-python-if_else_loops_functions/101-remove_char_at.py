@@ -17,7 +17,7 @@ def remove_char_at(str, n):
         The copy of the string without the deleted position
       """
 
-       new_str = ""
+      new_str = ""
 
         for i in range(len(str)):
             if i != n:
